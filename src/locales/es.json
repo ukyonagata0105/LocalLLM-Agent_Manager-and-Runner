@@ -1,0 +1,80 @@
+{
+    "common": {
+        "save": "Guardar",
+        "cancel": "Cancelar",
+        "back": "Volver",
+        "loading": "Cargando...",
+        "error": "Error",
+        "success": "Éxito"
+    },
+    "sidebar": {
+        "dashboard": "Panel",
+        "tasks": "Tareas",
+        "workflows": "Flujos",
+        "openhands": "OpenHands",
+        "agents": "Agentes",
+        "knowledge": "Conocimiento",
+        "analytics": "Análisis",
+        "settings": "Configuración",
+        "devMode": "Modo Dev",
+        "systemOnline": "Sistema en línea"
+    },
+    "dashboard": {
+        "title": "Panel",
+        "subtitle": "Monitorea tus agentes y estado del sistema"
+    },
+    "tasks": {
+        "title": "Gestión de Tareas",
+        "subtitle": "Organiza y rastrea tu trabajo"
+    },
+    "workflows": {
+        "title": "Automatización de Flujos (n8n)",
+        "subtitle": "Diseña y automatiza tus procesos usando n8n",
+        "syncRestart": "Sincronizar y Reiniciar",
+        "openNewTab": "Abrir en Nueva Pestaña"
+    },
+    "openhands": {
+        "title": "OpenHands",
+        "subtitle": "Agente de Codificación Autónomo",
+        "syncing": "Sincronizando..."
+    },
+    "settings": {
+        "title": "Configuración",
+        "subtitle": "Configura tu LocalLLM Agent Manager",
+        "backToSettings": "← Volver a Configuración",
+        "general": {
+            "title": "General",
+            "description": "Preferencias y valores predeterminados de la aplicación",
+            "appearance": "Apariencia",
+            "theme": "Tema",
+            "darkMode": "Modo Oscuro (Predeterminado)",
+            "lightMode": "Modo Claro",
+            "responseLanguage": "Idioma de Respuesta",
+            "languageHint": "Establece el idioma para las respuestas de LLM y servicios."
+        },
+        "llm": {
+            "title": "Proveedores LLM",
+            "description": "Configura claves API para OpenAI, Anthropic, Google AI y modelos locales"
+        },
+        "knowledge": {
+            "title": "Base de Conocimiento",
+            "description": "Conecta a Dify para RAG y gestión de documentos"
+        },
+        "security": {
+            "title": "Seguridad",
+            "description": "Configuración de autenticación y control de acceso"
+        },
+        "notifications": {
+            "title": "Notificaciones",
+            "description": "Preferencias de alertas y configuración de sonido"
+        },
+        "appearance": {
+            "title": "Apariencia",
+            "description": "Tema, colores y opciones de visualización"
+        },
+        "remote": {
+            "title": "Acceso Remoto",
+            "description": "Configurar modo servidor y ajustes de túnel"
+        }
+    }
+}

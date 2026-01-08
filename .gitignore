@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+release/
+*.tgz
+
+# Electron
+electron/*.js
+!electron/tsconfig.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Test outputs
+test-results/
+playwright-report/
+playwright-report-electron/
+coverage/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+.setup-complete
+.openhands_config.toml
+.n8n_credentials.json
+.rag-watcher.pid
+
+# Dify (large external dependency)
+.dify/
+
+# Other temp directories
+cc-wf-studio-temp/

@@ -1,0 +1,80 @@
+{
+    "common": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "back": "Back",
+        "loading": "Loading...",
+        "error": "Error",
+        "success": "Success"
+    },
+    "sidebar": {
+        "dashboard": "Dashboard",
+        "tasks": "Tasks",
+        "workflows": "Workflows",
+        "openhands": "OpenHands",
+        "agents": "Agents",
+        "knowledge": "Knowledge",
+        "analytics": "Analytics",
+        "settings": "Settings",
+        "devMode": "Dev Mode",
+        "systemOnline": "System Online"
+    },
+    "dashboard": {
+        "title": "Dashboard",
+        "subtitle": "Monitor your agents and system status"
+    },
+    "tasks": {
+        "title": "Task Management",
+        "subtitle": "Organize and track your work"
+    },
+    "workflows": {
+        "title": "Workflow Automation (n8n)",
+        "subtitle": "Design and automate your processes using n8n",
+        "syncRestart": "Sync & Restart",
+        "openNewTab": "Open in New Tab"
+    },
+    "openhands": {
+        "title": "OpenHands",
+        "subtitle": "Autonomous Coding Agent Runtime",
+        "syncing": "Syncing..."
+    },
+    "settings": {
+        "title": "Settings",
+        "subtitle": "Configure your LocalLLM Agent Manager",
+        "backToSettings": "← Back to Settings",
+        "general": {
+            "title": "General",
+            "description": "Application preferences and defaults",
+            "appearance": "Appearance",
+            "theme": "Theme",
+            "darkMode": "Dark Mode (Default)",
+            "lightMode": "Light Mode",
+            "responseLanguage": "Response Language",
+            "languageHint": "Sets the language for LLM responses and services."
+        },
+        "llm": {
+            "title": "LLM Providers",
+            "description": "Configure API keys for OpenAI, Anthropic, Google AI, and Local Models"
+        },
+        "knowledge": {
+            "title": "Knowledge Base",
+            "description": "Connect to Dify for RAG and Document Management"
+        },
+        "security": {
+            "title": "Security",
+            "description": "Authentication and access control settings"
+        },
+        "notifications": {
+            "title": "Notifications",
+            "description": "Alert preferences and sound settings"
+        },
+        "appearance": {
+            "title": "Appearance",
+            "description": "Theme, colors, and display options"
+        },
+        "remote": {
+            "title": "Remote Access",
+            "description": "Configure server mode and tunnel settings"
+        }
+    }
+}

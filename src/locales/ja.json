@@ -1,0 +1,80 @@
+{
+    "common": {
+        "save": "保存",
+        "cancel": "キャンセル",
+        "back": "戻る",
+        "loading": "読み込み中...",
+        "error": "エラー",
+        "success": "成功"
+    },
+    "sidebar": {
+        "dashboard": "ダッシュボード",
+        "tasks": "タスク",
+        "workflows": "ワークフロー",
+        "openhands": "OpenHands",
+        "agents": "エージェント",
+        "knowledge": "ナレッジ",
+        "analytics": "分析",
+        "settings": "設定",
+        "devMode": "開発モード",
+        "systemOnline": "システムオンライン"
+    },
+    "dashboard": {
+        "title": "ダッシュボード",
+        "subtitle": "エージェントとシステム状態を監視"
+    },
+    "tasks": {
+        "title": "タスク管理",
+        "subtitle": "作業を整理・追跡"
+    },
+    "workflows": {
+        "title": "ワークフロー自動化 (n8n)",
+        "subtitle": "n8nを使ってプロセスを設計・自動化",
+        "syncRestart": "同期して再起動",
+        "openNewTab": "新しいタブで開く"
+    },
+    "openhands": {
+        "title": "OpenHands",
+        "subtitle": "自律型コーディングエージェント",
+        "syncing": "同期中..."
+    },
+    "settings": {
+        "title": "設定",
+        "subtitle": "LocalLLM Agent Managerを設定",
+        "backToSettings": "← 設定に戻る",
+        "general": {
+            "title": "一般",
+            "description": "アプリケーションの設定とデフォルト",
+            "appearance": "外観",
+            "theme": "テーマ",
+            "darkMode": "ダークモード（デフォルト）",
+            "lightMode": "ライトモード",
+            "responseLanguage": "応答言語",
+            "languageHint": "LLM応答とサービスの言語を設定します。"
+        },
+        "llm": {
+            "title": "LLMプロバイダー",
+            "description": "OpenAI、Anthropic、Google AI、ローカルモデルのAPIキーを設定"
+        },
+        "knowledge": {
+            "title": "ナレッジベース",
+            "description": "DifyでRAGとドキュメント管理に接続"
+        },
+        "security": {
+            "title": "セキュリティ",
+            "description": "認証とアクセス制御の設定"
+        },
+        "notifications": {
+            "title": "通知",
+            "description": "アラート設定とサウンド設定"
+        },
+        "appearance": {
+            "title": "外観",
+            "description": "テーマ、カラー、表示オプション"
+        },
+        "remote": {
+            "title": "リモートアクセス",
+            "description": "サーバーモードとトンネル設定"
+        }
+    }
+}
